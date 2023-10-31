@@ -1,6 +1,5 @@
 TARGET = tetris
-#LIBS = -lncurses -ltinfo
-LIBS = -lncurses
+LIBS = -lncurses -ltinfo
 CC = clang
 CFLAGS = -g -Wall -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600
 
