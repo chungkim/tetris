@@ -1,2 +1,7 @@
-# tetris
-Tetris
+# Tetris
+
+```bash
+> make deps
+> make
+> ./tetris
+```
